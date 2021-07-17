@@ -1,1 +1,3 @@
 this is output file
+secon line
+third
